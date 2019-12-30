@@ -6,6 +6,7 @@
 - 2. Primitive Type(2019.12.24)
 - 3. Value vs Reference(2019.12.26)
 - 4. Implicit Coercion(2019.12.27)
+- 5. == vs === vs typeof(2019.12.30)
 
 #### 참고
 
