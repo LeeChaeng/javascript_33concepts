@@ -46,5 +46,4 @@ NaN == null;
 NaN == undefined;
 // false
 
-NaN == NaN;
-// false
+NaN == NaN; //false
