@@ -7,6 +7,7 @@
 - 3. Value vs Reference (2019.12.26)
 - 4. Implicit Coercion (2019.12.27)
 - 5. == vs === vs typeof (2019.12.30)
+- 6. Function Scope, Block Scope and Lexical Scope (2020.01.02)
 
 #### 참고
 
