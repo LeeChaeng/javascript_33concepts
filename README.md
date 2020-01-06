@@ -9,6 +9,8 @@
 5.  == vs === vs typeof (2019.12.30)
 6.  Function Scope, Block Scope and Lexical Scope (2020.01.02)
 7.  Expression vs Statement(2020.01.03)
+8.  IIFE, Modules and Namespaces(2020.01.06)
+9.  Message Queue and Event Loop
 
 #### 참고
 
