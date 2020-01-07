@@ -253,3 +253,31 @@ console.log(Sequence.getCurrentValue()); // 2
 `current`변수가 IIFE 에서 private하기 때문에, 클로져를 통해 여기에 접근할 수 있는 함수 말고는 누구도 `current`변수의 값에 접근하거나 그 값을 수정할 수 없다.
 
 
+# 마치며
+- 이해가 잘 가지 않는 IIFE 개념이라 그냥 내 나름대로 요약을 해보았다. 
+
+> IIFE란 쉽게 말해 누군가에게 variable을 주고 싶고, 실행을 하고 싶지만 누군가가 나의 값을 변하지 못하게 만들고자 하는 것이다.
+
+```js
+(function() {
+  //code, variable change
+})()
+```
+- 기본적으로 이렇게 사용하지만
+
+```js
+(() => {
+  //code, variable change
+})()
+
+```
+- 이게 조금 더 멋있다
+
+
+## +import & export
+- 브라우저에서는 웹팩 등 모듈 번들러 없이 파일을 합칠 수 없다.
+- 두개의 파일을 브라우저에서 합치고 싶다면 import와 export error가 발생한다.
+```html
+<script type="module" src="./app.js"></script>
+```
+- 이렇게 사용해주면 export & import 에러는 더 이상 나타나지 않는다.
