@@ -11,6 +11,7 @@
 7.  Expression vs Statement(2020.01.03)
 8.  IIFE, Modules and Namespaces(2020.01.06)
 9.  Message Queue and Event Loop(2020.01.07)
+10. setTimeout, setInterval and requestAnimationFrame(2020.01.08)
 
 #### 참고
 
