@@ -13,6 +13,7 @@
 9.  Message Queue and Event Loop(2020.01.07)
 10. setTimeout, setInterval and requestAnimationFrame(2020.01.08)
 11. JavaScript Engines(2020.01.13)
+12. Bitwise Operators, Type Arrays and Array Buffers(2020.01.15)
 
 #### 참고
 
