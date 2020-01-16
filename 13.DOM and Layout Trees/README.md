@@ -66,6 +66,7 @@ HTML과 CSS의 structure와 style을 파싱하기 위해서, 브라우저는 DOM
 ![image](https://user-images.githubusercontent.com/52696993/72509836-b8303c80-388b-11ea-9e26-791b37f4ffdc.png)
 
 - `Element` 탭으로 이동해서 `document.body`를 콘솔에 타이핑 해보면 DOM이 변경된 것을 볼 수 있다.
+  <<<<<<< HEAD
 - `body`의 배경색을 `fuchsia` 로 할당 했던 자바스크립트 코드는 DOM의 일부이지만 `View Page Source`에서 보면 웹사이트의 소스는 우리가 자바스크립트를 통해 추가했던 새로운 스타일 속성을 가지고 있지 않다는 것을 알게 된다.
 - DOM이 HTML 소스코드와 다른 출력 결과를 갖는 또 하나의 사례는 소스코드에 에러가 있을 때이다.
 - `table` 태그 안에는 `tbody`가 요구된다. 하지만 HTML 소스에 좀처럼 잘 추가하지 않는다. 브라우저는 자동적으로 에러를 찾아주고 DOM을 수정하여 `tbody`코드를 추가해준다.
