@@ -16,7 +16,7 @@
 12. Bitwise Operators, Type Arrays and Array Buffers(2020.01.15)
 13. DOM and Layout Trees(2020.01.16)
 
-#### 참고
+##### 참고
 
 - https://github.com/leonardomso/33-js-concepts
 - https://velog.io/@jakeseo_me
