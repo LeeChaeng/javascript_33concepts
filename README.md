@@ -14,6 +14,7 @@
 10. setTimeout, setInterval and requestAnimationFrame(2020.01.08)
 11. JavaScript Engines(2020.01.13)
 12. Bitwise Operators, Type Arrays and Array Buffers(2020.01.15)
+13. DOM and Layout Trees(2020.01.16)
 
 #### 참고
 
