@@ -15,6 +15,7 @@
 11. JavaScript Engines(2020.01.13)
 12. Bitwise Operators, Type Arrays and Array Buffers(2020.01.15)
 13. DOM and Layout Trees(2020.01.16)
+14. Factories and Classes(2020.01.20)
 
 ##### 참고
 
