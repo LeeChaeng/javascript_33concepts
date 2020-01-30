@@ -18,6 +18,7 @@
 14. Factories and Classes(2020.01.20)
 15. this, call, apply and bind(2020.01.21)
 16. new, Constructor, instanceof and Instances(2020.01.26)
+17. Prototype Inheritance and Prototype Chain(2020.01.28)
 
 ##### 참고
 
