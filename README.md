@@ -21,7 +21,9 @@
 17. [Prototype Inheritance and Prototype Chain](https://github.com/LeeChaeng/javascript_33concepts/tree/master/17.Prototype%20Inheritance%20and%20Prototype%20Chain) (2020.01.28)
 18. [Object.create and Object.assign](https://github.com/LeeChaeng/javascript_33concepts/tree/master/18.Object.create%20and%20Object.assign) (2020.01.30)
 19. [map, reduce, filter](https://github.com/LeeChaeng/javascript_33concepts/tree/master/19.map%2C%20reduce%2C%20filter) (2020.01.31)
-20. Pure Functions, Side Effects and State Mutation (2020.02.03)
+20. [Pure Functions, Side Effects and State Mutation](https://github.com/LeeChaeng/javascript_33concepts/tree/master/20.Pure%20Functions%2C%20Side%20Effects%20and%20State%20Mutation) (2020.02.03)
+21. Closures (2020.02.04 ~ 2020.02.05)
+22. High Order Functions (2020.02.07)
 
 ##### 참고
 
