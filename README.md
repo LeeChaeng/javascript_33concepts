@@ -24,7 +24,8 @@
 20. [Pure Functions, Side Effects and State Mutation](https://github.com/LeeChaeng/javascript_33concepts/tree/master/20.Pure%20Functions%2C%20Side%20Effects%20and%20State%20Mutation) (2020.02.03)
 21. [Closures](https://github.com/LeeChaeng/javascript_33concepts/tree/master/21.Closures) (2020.02.04 ~ 2020.02.05)
 22. [High Order Functions](https://github.com/LeeChaeng/javascript_33concepts/tree/master/22.High%20Order%20Functions) (2020.02.07)
-23. Recursion (2020.02.11)
+23. [Recursion](https://github.com/LeeChaeng/javascript_33concepts/tree/master/23.Recursion) (2020.02.11)
+24. Collections and Generators (2020.02.12)
 
 ##### 참고
 
