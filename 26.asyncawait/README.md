@@ -350,3 +350,8 @@ async function loadJson(url) {
 
 loadJson("no-such-user.json").catch(alert); // Error : 404 (4)
 ```
+
+1. `loadJson` 함수가 `async` 함수가 되었다.
+2. 모든 `.then`이 `await`으로 교체되었다.
+3. `return response.json()`을 `await`하지 않고 할 수 있다.
+4. `loadJson`으로부터 던져진 에러는 `.catch`에 의해 처리된다. 여기서는 `await loadJson(...)`을 사용할 수 없다. 우리는 `async` 함수 내부에 있지 않다.
