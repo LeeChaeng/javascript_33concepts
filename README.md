@@ -26,7 +26,8 @@
 22. [High Order Functions](https://github.com/LeeChaeng/javascript_33concepts/tree/master/22.High%20Order%20Functions) (2020.02.07)
 23. [Recursion](https://github.com/LeeChaeng/javascript_33concepts/tree/master/23.Recursion) (2020.02.11)
 24. [Collections and Generators](https://github.com/LeeChaeng/javascript_33concepts/tree/master/24.Collections%20and%20Generators) (2020.02.12)
-25. Promises (2020.02.13)
+25. [Promises](https://github.com/LeeChaeng/javascript_33concepts/tree/master/25.Promises) (2020.02.13)
+26. async/await (2020.02.18)
 
 ##### 참고
 
